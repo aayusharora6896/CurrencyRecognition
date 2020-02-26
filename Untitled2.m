@@ -1,0 +1,1 @@
+X = ReadImgs(Currency recognition,.jpg)
